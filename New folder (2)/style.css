@@ -1,0 +1,62 @@
+#labler{
+    display: block;
+text-align: center;
+font-size: 2em;
+
+
+}
+#gameHolder{
+display: flex;
+justify-content: center;
+justify-content: space-evenly;
+
+
+}
+
+
+#myP{
+
+
+text-align: center;
+font-size: 2em;
+
+
+}
+h1{
+    display: block;
+    text-align: center;
+}
+.object{
+padding: 25px;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+
+
+
+
+.object:hover{background-color: antiquewhite;}
+
+
+
+
+#id{
+display: flex;
+justify-content: center;
+
+
+}
+#tryagainBtn{
+    padding: 25px;
+    font-size: 25px;
+    border-radius: 10px;
+    display: none;
+
+
+}
+#tryagainBtn:hover{
+
+
+    background-color: antiquewhite;
+}
